@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @angularaddict
+- 👀 I’m interested in learning Angular and TypeScript.
+- 🌱 I’m currently learning Rust.
+- 💞️ I’m looking to collaborate on Angular and Backend.
+- 📫 How to reach me angularaddict@gmail.com
